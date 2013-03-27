@@ -1,0 +1,12 @@
+---
+name: myclubs
+version: 1
+
+libraries:
+- name: "django"
+  version: "1.4"
+
+- name: "sqlalchemy"
+  version: "0.7.3"
+
+...
